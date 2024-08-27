@@ -1,6 +1,6 @@
-##Projeto de Conta Bancária
-#Desafio proposto pela DIO-Trilha-java-Básico.
+## Projeto de Conta Bancária
+# Desafio proposto pela DIO-Trilha-java-Básico.
 
-#Propósito
+# Propósito
 
-Criar um código que aceite inputs no terminal como parâmetros.
+  Criar um código que aceite inputs no terminal como parâmetros.
